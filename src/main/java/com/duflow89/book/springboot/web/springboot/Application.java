@@ -1,4 +1,4 @@
-package com.duflow89.book;
+package com.duflow89.book.springboot.web.springboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

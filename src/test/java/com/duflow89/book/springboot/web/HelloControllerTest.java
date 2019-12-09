@@ -1,4 +1,4 @@
-package com.duflow89.book.web;
+package com.duflow89.book.springboot.web;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

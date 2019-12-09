@@ -1,4 +1,4 @@
-package com.duflow89.book.web;
+package com.duflow89.book.springboot.web;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

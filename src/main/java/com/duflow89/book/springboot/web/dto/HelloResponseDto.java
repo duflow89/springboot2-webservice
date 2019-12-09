@@ -1,4 +1,4 @@
-package com.duflow89.book.web.dto;
+package com.duflow89.book.springboot.web.dto;
 
 
 import lombok.Getter;
